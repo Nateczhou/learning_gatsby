@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return o}));var a=n("q1tI"),c=n.n(a),r=n("Wbzz");function o(){return c.a.createElement("div",{style:{color:"gray"}},c.a.createElement(r.a,{to:"/test/"},"Contact"),c.a.createElement("h1",null,"在div里面h1 123"),c.a.createElement("img",{src:"https://source.unsplash.com/random/400x200",alt:""}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3c2764c0a3c6c3a260bf.js.map

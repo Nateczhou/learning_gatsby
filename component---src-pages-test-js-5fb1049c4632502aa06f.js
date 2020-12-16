@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{h5Py:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var i=e("q1tI"),u=e.n(i);function r(){return u.a.createElement("div",null,"this is testing page")}}}]);
+//# sourceMappingURL=component---src-pages-test-js-5fb1049c4632502aa06f.js.map

@@ -6,5 +6,6 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  pathPrefix: "/learning_gatsby",
+  plugins: []
 }
